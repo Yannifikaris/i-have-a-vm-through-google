@@ -244,6 +244,18 @@
       "created_at": "2026-10-30T22:40:07.776Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "94e05ef6-cc46-40ce-90c6-4c61437bc3a6",
+      "role": "user",
+      "content": "Current status now",
+      "status": "pending",
+      "model": "auto",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-30T22:40:41.120Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }

@@ -196,6 +196,30 @@
       "created_at": "2026-10-30T22:14:59.764Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "fb479c86-a270-42bf-a8f3-692f611f4bf5",
+      "role": "user",
+      "content": "Statue",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-30T22:19:47.777Z",
+      "sender": "ios",
+      "is_cancelled": false
+    },
+    {
+      "id": "00e4b88f-2c50-45b9-bc28-66fdc4309225",
+      "role": "agent",
+      "content": "error: failed to send message: not_found: trajectory not found: ddf053e5-1a35-4ca0-ab83-1ab4056b3214: not found\n\n⚠️ These changes could not be saved to GitHub (error: cannot pull with rebase: You have unstaged changes.). They will be lost when this session ends.",
+      "status": "error",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "fb479c86-a270-42bf-a8f3-692f611f4bf5",
+      "created_at": "2026-10-30T22:19:49.814Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }

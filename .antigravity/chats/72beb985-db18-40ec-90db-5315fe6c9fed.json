@@ -148,6 +148,30 @@
       "created_at": "2026-10-30T22:00:42.983Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "40ef750c-da57-4470-a80b-48dc01325a3c",
+      "role": "user",
+      "content": "Resend",
+      "status": "pending",
+      "model": "auto",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-30T22:01:23.155Z",
+      "sender": "ios",
+      "is_cancelled": false
+    },
+    {
+      "id": "27eb0595-5651-4612-a109-5d2222b9d10c",
+      "role": "agent",
+      "content": "error: failed to send message: not_found: trajectory not found: ddf053e5-1a35-4ca0-ab83-1ab4056b3214: not found",
+      "status": "error",
+      "model": "auto",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "40ef750c-da57-4470-a80b-48dc01325a3c",
+      "created_at": "2026-10-30T22:01:26.700Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
